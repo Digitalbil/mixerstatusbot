@@ -1,0 +1,17 @@
+{
+  "name": "mixerstatusbot",
+  "version": "1.0.0",
+  "description": "This Discord Bot posts mixer.com status updates to a discord channel using webhooks.",
+  "main": "index.js",
+  "author": "Digital Bill <hi@billlennox.me",
+  "engines": {
+    "node": ">=6.0"
+  },
+  "dependencies": {
+    "carina": "^0.10.0",
+    "merge": "^1.2.0",
+    "mixerstatus-discordbot": "^1.0.0",
+    "node-fetch": "^1.7.3",
+    "ws": "^3.3.3"
+  }
+}
