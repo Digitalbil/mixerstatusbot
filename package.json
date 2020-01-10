@@ -13,5 +13,10 @@
     "mixerstatus-discordbot": "^1.0.0",
     "node-fetch": "^1.7.3",
     "ws": "^3.3.3"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node demo.js",
+    "dev": "nodemon demo.js"
+  },
 }
