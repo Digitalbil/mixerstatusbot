@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This Discord Bot posts mixer.com status updates to a discord channel using webhooks.",
   "main": "index.js",
-  "author": "Digital Bill <hi@billlennox.me",
+  "author": "Digital Bill",
   "engines": {
     "node": ">=6.0"
   },
