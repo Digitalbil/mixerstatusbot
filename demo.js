@@ -1,7 +1,7 @@
 const MixerDiscordBot = require('./index');
 
-const channelId = 81996;
-const webhook = 'https://discordapp.com/api/webhooks/394168920426414081/vv0vQPANVFbgCGhk_k8voz10RSMq5Cd8_Kv2l1bKDVvzE8S-TYw7uUzdsrEnV8_Dj7US';
+const channelId = '665827705928810496';
+const webhook = 'https://discordapp.com/api/webhooks/665827143535558659/6wFRxcQiY3F569FUllmx__v9hkeI6Kc-5KlHOecxZT6xHEGiG-0j498xr1lxugB2gDaA';
 const config = { channelId, webhook };
 const bot = new MixerDiscordBot(config);
 
