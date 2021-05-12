@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "carina": "^0.10.0",
-    "merge": "^1.2.0",
+    "merge": "^2.1.1",
     "mixerstatus-discordbot": "^1.0.0",
     "node-fetch": "^1.7.3",
     "ws": "^3.3.3"
