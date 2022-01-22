@@ -11,7 +11,7 @@
     "carina": "^0.10.0",
     "merge": "^1.2.0",
     "mixerstatus-discordbot": "^1.0.0",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^3.1.1",
     "ws": "^3.3.3"
   },
   "scripts": {
